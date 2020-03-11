@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         const Locale('en', 'US'), // English
         const Locale('es', 'ES'), // Spanish
         const Locale.fromSubtags(
-            languageCode: 'zh'), // Chinese *See Advanced Locales below*
+            languageCode: 'es'), // Chinese *See Advanced Locales below*
         // ... other locales the app supports
       ],
       // home: HomePage(),
